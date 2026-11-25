@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "author": "Sanjeevi and Mackenzie",
+  "editor": "wokwi",
+  "parts": [
+    {"type":"wokwi-pi-pico","id":"pico","top":0,"left":0,"attrs":{}},
+    {"type":"wokwi-potentiometer","id":"pot1","top":-20,"left":-150,"attrs":{}}
+  ],
+  "connections": [
+    ["pot1:GND","pico:GND.8","black",[]],
+    ["pot1:SIG","pico:GP26","green",[]],
+    ["pot1:VCC","pico:3V3","red",[]],
+    ["pico:GP0","$serialMonitor:RX","",[]],
+    ["pico:GP1","$serialMonitor:TX","",[]]
+  ],
+  "dependencies": {},
+  "serialMonitor": {"display":"always"}
+}
