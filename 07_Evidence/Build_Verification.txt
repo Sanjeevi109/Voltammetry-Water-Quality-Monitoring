@@ -1,0 +1,3 @@
+Build preparation verification
+
+All four sketch files passed g++ -std=c++11 -fsyntax-only using a minimal mock Arduino interface. This is a C++ syntax check, not an Arduino-Pico build or Wokwi execution. Original integrated v4.0 is byte-identical to Sprint4_Main.ino and the original Wokwi archive. Actual Wokwi logs E01-E04 apply only to integrated v4.0. The three derived variants require independent Wokwi regression. The diagram is the original archived wiring; later knob position was adjusted manually during testing.

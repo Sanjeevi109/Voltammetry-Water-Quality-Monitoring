@@ -1,0 +1,7 @@
+ID,Scenario,Acceptance,Observed,Verdict,Evidence lines
+PT-01,Algorithm time,1000 trials; max <=10 ms,16 / 16.409 / 31 us min/mean/max; 0 incorrect,PASS,E02: 376-382
+PT-02,Report cadence,10 intervals; 900..1100 ms,999.629..1000.635 ms,PASS,E02: 396-563
+PT-03,Isolated throughput,1000 packets; zero loss,1000 produced/consumed/correct; 0 lost; 23.049 ms; 43385.83 packets/s,PASS,E02: 565-572
+PT-04,Error latency,Each fault <=1000 ms,Mode 2: 477 us; 3: 480 us; 4: 167 us,PASS,E02: 574-617
+PT-05,Recovery latency,Mode 4 -> 0 within 2000 ms,1000.617 ms; 2.50 ppm restored,PASS,E02: 619-643
+PT-06,Stability,600000 ms; no crash,600000 ms; 600 cycles; 0 incorrect,PASS,E04: 8553-8557

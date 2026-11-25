@@ -1,0 +1,10 @@
+ID,Scenario,Acceptance,Observed,Verdict,Evidence lines
+FT-01,Normal conversion,"Mode 0, midpoint; error <=0.02 ppm","2.50 -> 2.50 ppm; -0.60 V, 6.00 uA",PASS,E03: 10-21
+FT-02,Off-target maximum,"Mode 1, midpoint; ignore 20 uA at -0.80 V",2.50 -> 2.50 ppm; target -0.60 V,PASS,E03: 442-453
+FT-03,Blank,"Mode 0, zero; no numeric result",NO_DISTINCT_LOCAL_PEAK; NOT AVAILABLE,PASS,E03: 206-215
+FT-04,Missing target,Mode 2; exact status; no numeric ppm,MISSING_TARGET_SAMPLE; NOT AVAILABLE,PASS,E02: 577-589
+FT-05,Zero slope,Mode 3; exact status; no numeric ppm,INVALID_CALIBRATION; NOT AVAILABLE,PASS,E02: 592-604
+FT-06,Timeout,Mode 4; exact status; no numeric ppm,COMMUNICATION_TIMEOUT; NOT AVAILABLE,PASS,E02: 607-615
+FT-07,Recovery,Mode 4 to 0; valid within ~2 cycles,2.50 ppm restored; 1000.617 ms,PASS,E02: 619-643
+FT-08,Overlapping interferent,Mode 5 midpoint; warning visible; record issue,2.50 -> 4.00 ppm; warning; +1.50 ppm bias,PASS (warning); FAIL (selectivity),E03: 568-580
+FT-09,Upper boundary,Mode 0 max; 0..5 ppm; error <=0.02 ppm,ADC 4095; 5.00 -> 5.00 ppm; 11.00 uA,PASS,E03: 246-257

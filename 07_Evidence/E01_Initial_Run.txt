@@ -1,0 +1,1284 @@
+
+SPRINT 4 VOLTAMMETRY v4.0 — SYNTHETIC ONLY
+Commands: 0=normal, 1=off-target peak, 2=missing sample,
+3=invalid calibration, 4=timeout, 5=overlapping interferent
+p=PT01 algorithm, c=PT02 cadence, t=PT03 throughput
+e=PT04 error latency, r=PT05 recovery, s=PT06 stability, h=help
+PB-02 MODEL: WE=working; RE=reference; CE=counter [NOT physical]
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 1
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=20.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 1
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=20.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 1
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=20.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 2
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=MISSING uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: MISSING_TARGET_SAMPLE
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 2
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=MISSING uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: MISSING_TARGET_SAMPLE
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 2
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=MISSING uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: MISSING_TARGET_SAMPLE
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 3
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: INVALID_CALIBRATION
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 3
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: INVALID_CALIBRATION
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 3
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: INVALID_CALIBRATION
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 4
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+Virtual measurement packet NOT delivered
+RESULT: COMMUNICATION_TIMEOUT
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 4
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+Virtual measurement packet NOT delivered
+RESULT: COMMUNICATION_TIMEOUT
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 4
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+Virtual measurement packet NOT delivered
+RESULT: COMMUNICATION_TIMEOUT
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 4
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+Virtual measurement packet NOT delivered
+RESULT: COMMUNICATION_TIMEOUT
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 4
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+Virtual measurement packet NOT delivered
+RESULT: COMMUNICATION_TIMEOUT
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 5
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=4.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 4.00 uA
+Estimated concentration: 1.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+WARNING: Overlapping interference is NOT distinguishable by this model
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 5
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=4.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 4.00 uA
+Estimated concentration: 1.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+WARNING: Overlapping interference is NOT distinguishable by this model
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 5
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=4.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 4.00 uA
+Estimated concentration: 1.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+WARNING: Overlapping interference is NOT distinguishable by this model
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PT-01 ALGORITHM: 1000 trials; max <= 10000 us
+Trials: 1000
+Min us: 16
+Mean us: 16.388
+Max us: 31
+Incorrect results: 0
+TEST RESULT: PASS
+Performance test finished. Resuming functional mode.
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PT-02 CADENCE: 10 intervals; 900..1100 ms
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+Interval us: 999619
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+Interval us: 1000629
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+Interval us: 999630
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+Interval us: 999633
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+Interval us: 1000630
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+Interval us: 999630
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+Interval us: 1000634
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+Interval us: 999634
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+Interval us: 999629
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+Interval us: 1000634
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+Min interval us: 999619
+Max interval us: 1000634
+TEST RESULT: PASS
+Performance test finished. Resuming functional mode.
+PT-03 THROUGHPUT: 1000 synthetic packets; no loss
+Produced: 1000
+Consumed: 1000
+Correct: 1000
+Lost: 0
+Elapsed us: 23050
+Packets/s: 43383.95
+TEST RESULT: PASS
+Performance test finished. Resuming functional mode.
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PT-04 ERROR LATENCY: modes 2/3/4; <=1000 ms each
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 2
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=MISSING uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: MISSING_TARGET_SAMPLE
+Estimated concentration: NOT AVAILABLE
+Fault mode: 2
+Error report latency us: 473
+TEST RESULT: PASS
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 3
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: INVALID_CALIBRATION
+Estimated concentration: NOT AVAILABLE
+Fault mode: 3
+Error report latency us: 480
+TEST RESULT: PASS
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 4
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+Virtual measurement packet NOT delivered
+RESULT: COMMUNICATION_TIMEOUT
+Estimated concentration: NOT AVAILABLE
+Fault mode: 4
+Error report latency us: 171
+TEST RESULT: PASS
+PT-04 OVERALL
+TEST RESULT: PASS
+Performance test finished. Resuming functional mode.
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PT-05 RECOVERY: mode 4 to 0; <=2000 ms
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 4
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+Virtual measurement packet NOT delivered
+RESULT: COMMUNICATION_TIMEOUT
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+Recovery latency us: 1000621
+TEST RESULT: PASS
+Performance test finished. Resuming functional mode.
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PT-06 STABILITY: 600000 ms simulated time; do not stop simulation
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2048  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)

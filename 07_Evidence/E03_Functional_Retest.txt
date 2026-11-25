@@ -1,0 +1,625 @@
+
+SPRINT 4 VOLTAMMETRY v4.0 — SYNTHETIC ONLY
+Commands: 0=normal, 1=off-target peak, 2=missing sample,
+3=invalid calibration, 4=timeout, 5=overlapping interferent
+p=PT01 algorithm, c=PT02 cadence, t=PT03 throughput
+e=PT04 error latency, r=PT05 recovery, s=PT06 stability, h=help
+PB-02 MODEL: WE=working; RE=reference; CE=counter [NOT physical]
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 3986  Knob: 3.21 V
+Injected synthetic input: 4.87 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=10.73 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 10.73 uA
+Estimated concentration: 4.87 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 0  Knob: 0.00 V
+Injected synthetic input: 0.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=1.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: NO_DISTINCT_LOCAL_PEAK
+Estimated concentration: NOT AVAILABLE
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 1909  Knob: 1.54 V
+Injected synthetic input: 2.33 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=5.66 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 5.66 uA
+Estimated concentration: 2.33 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 3714  Knob: 2.99 V
+Injected synthetic input: 4.53 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=10.07 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 10.07 uA
+Estimated concentration: 4.53 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 4095  Knob: 3.30 V
+Injected synthetic input: 5.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=11.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 11.00 uA
+Estimated concentration: 5.00 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 4095  Knob: 3.30 V
+Injected synthetic input: 5.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=11.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 11.00 uA
+Estimated concentration: 5.00 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 4095  Knob: 3.30 V
+Injected synthetic input: 5.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=11.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 11.00 uA
+Estimated concentration: 5.00 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 4095  Knob: 3.30 V
+Injected synthetic input: 5.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=11.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 11.00 uA
+Estimated concentration: 5.00 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 4095  Knob: 3.30 V
+Injected synthetic input: 5.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=11.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 11.00 uA
+Estimated concentration: 5.00 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 4095  Knob: 3.30 V
+Injected synthetic input: 5.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=11.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 11.00 uA
+Estimated concentration: 5.00 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 4095  Knob: 3.30 V
+Injected synthetic input: 5.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=11.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 11.00 uA
+Estimated concentration: 5.00 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 4095  Knob: 3.30 V
+Injected synthetic input: 5.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=11.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 11.00 uA
+Estimated concentration: 5.00 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 0
+ADC: 4095  Knob: 3.30 V
+Injected synthetic input: 5.00 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=11.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 11.00 uA
+Estimated concentration: 5.00 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 1
+ADC: 4095  Knob: 3.30 V
+Injected synthetic input: 5.00 ppm
+E=-0.80 V; I=20.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=11.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 11.00 uA
+Estimated concentration: 5.00 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 1
+ADC: 4095  Knob: 3.30 V
+Injected synthetic input: 5.00 ppm
+E=-0.80 V; I=20.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=11.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 11.00 uA
+Estimated concentration: 5.00 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 1
+ADC: 4095  Knob: 3.30 V
+Injected synthetic input: 5.00 ppm
+E=-0.80 V; I=20.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=11.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 11.00 uA
+Estimated concentration: 5.00 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 1
+ADC: 4018  Knob: 3.24 V
+Injected synthetic input: 4.91 ppm
+E=-0.80 V; I=20.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=10.81 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 10.81 uA
+Estimated concentration: 4.91 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 1
+ADC: 2109  Knob: 1.70 V
+Injected synthetic input: 2.58 ppm
+E=-0.80 V; I=20.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.15 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.15 uA
+Estimated concentration: 2.58 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 1
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=20.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 1
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=20.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 1
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=20.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 1
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=20.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 1
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=20.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 1
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=20.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 1
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=20.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 1
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=20.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 1
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=20.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=6.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 6.00 uA
+Estimated concentration: 2.50 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 5
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=9.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 9.00 uA
+Estimated concentration: 4.00 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+WARNING: Overlapping interference is NOT distinguishable by this model
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 5
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=9.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 9.00 uA
+Estimated concentration: 4.00 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+WARNING: Overlapping interference is NOT distinguishable by this model
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 5
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=9.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 9.00 uA
+Estimated concentration: 4.00 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+WARNING: Overlapping interference is NOT distinguishable by this model
+PB-03 MODEL: SWV requested; scan E=-0.80..-0.40 V; step=0.10 V
+------------------------------
+Mode: 5
+ADC: 2049  Knob: 1.65 V
+Injected synthetic input: 2.50 ppm
+E=-0.80 V; I=1.00 uA
+E=-0.70 V; I=2.00 uA
+E=-0.60 V; I=9.00 uA
+E=-0.50 V; I=2.00 uA
+E=-0.40 V; I=1.00 uA
+RESULT: VALID_SYNTHETIC_RESULT
+Selected potential: -0.60 V
+Selected current: 9.00 uA
+Estimated concentration: 4.00 ppm (SIMULATED, NOT VERIFIED PESTICIDE)
+WARNING: Overlapping interference is NOT distinguishable by this model
